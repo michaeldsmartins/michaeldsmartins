@@ -29,7 +29,7 @@ Olá! Sou [Michael David] 👋, um entusiasta da tecnologia e apaixonado por des
 ---
 ### 🐍 Cobrinha comendo os commits!
 
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/snake.svg)
+![Snake animation](https://github.com/michaeldsmartins/michaeldsmartins/blob/output/snake.svg)
 
 
 *Obrigado por visitar meu perfil! Se gostou, sinta-se à vontade para entrar em contato ou deixar uma ⭐ nos meus repositórios!*
