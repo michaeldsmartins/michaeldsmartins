@@ -27,8 +27,4 @@ Olá! Sou Michael David 👋, um entusiasta da tecnologia e apaixonado por desen
 - 💼 [LinkedIn](https://www.linkedin.com/in/michael-david-276aa5330/)
 - 📧 E-mail: michael.devid98@gmail.com
 ---
-### Snake Game eating my contributions 🐍
-
-![Snake animation](https://github.com/michaeldsmartins/raw/output/snake.svg)
-
 *Obrigado por visitar meu perfil! Se gostou, sinta-se à vontade para entrar em contato ou deixar uma ⭐ nos meus repositórios!*
