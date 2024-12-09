@@ -20,7 +20,7 @@ Olá! Sou [Michael David] 👋, um entusiasta da tecnologia e apaixonado por des
 ---
 
 ## 🔥 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaeldsmartins)
 
 
 ## 📫 Como Me Encontrar
