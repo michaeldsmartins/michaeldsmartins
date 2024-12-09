@@ -24,7 +24,7 @@ Olá! Sou [Michael David] 👋, um entusiasta da tecnologia e apaixonado por des
 
 
 ## 📫 Como Me Encontrar
-- 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/michael-david-276aa5330/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/michael-david-276aa5330/)
 - 📧 E-mail: michael.devid98@gmail.com
 ---
 
