@@ -1,6 +1,6 @@
 # 🌟 Bem-vindo ao meu Perfil!
 
-Olá! Sou [Seu Nome] 👋, um entusiasta da tecnologia e apaixonado por desenvolvimento de software.
+Olá! Sou [Michael David] 👋, um entusiasta da tecnologia e apaixonado por desenvolvimento de software.
 
 ---
 
@@ -14,31 +14,18 @@ Olá! Sou [Seu Nome] 👋, um entusiasta da tecnologia e apaixonado por desenvol
 ---
 
 ## 📌 Sobre Mim
-- 🎓 Graduado em **[sua área de formação]**.
-- 💻 Atualmente aprendendo **[tecnologia ou ferramenta atual]**.
+- 💻 Atualmente aprendendo **[Reactjs/Nextjs, MachinaLearning/python]**.
 - 🌱 Interesso-me por **inteligência artificial**, **desenvolvimento web**, e **open source**.
 
 ---
 
 ## 🔥 Estatísticas do GitHub
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO)
 
----
-
-## 🚀 Projetos em Destaque
-- [**Projeto 1**](https://github.com/seu-usuario/projeto1) - Breve descrição do projeto.
-- [**Projeto 2**](https://github.com/seu-usuario/projeto2) - Breve descrição do projeto.
-
----
 
 ## 📫 Como Me Encontrar
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
-- 🌐 [Portfólio](https://seu-portfolio.com)
-- 📧 E-mail: seu-email@email.com
-
+- 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/michael-david-276aa5330/))
+- 📧 E-mail: michael.devid98@gmail.com
 ---
 
 *Obrigado por visitar meu perfil! Se gostou, sinta-se à vontade para entrar em contato ou deixar uma ⭐ nos meus repositórios!*
