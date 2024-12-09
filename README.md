@@ -29,6 +29,6 @@ Olá! Sou Michael David 👋, um entusiasta da tecnologia e apaixonado por desen
 ---
 ### Snake Game eating my contributions 🐍
 
-![Snake animation](https://github.com/michaeldsmartins/michaeldsmartins/raw/output/snake.svg)
+![Snake animation](https://github.com/michaeldsmartins/raw/output/snake.svg)
 
 *Obrigado por visitar meu perfil! Se gostou, sinta-se à vontade para entrar em contato ou deixar uma ⭐ nos meus repositórios!*
